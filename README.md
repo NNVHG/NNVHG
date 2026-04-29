@@ -41,8 +41,8 @@ Tôi là sinh viên ngành **Công nghệ thông tin (Information Technology)** 
 ### 📊 Thống kê GitHub (GitHub Stats)
 
 <p align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api?username=NNVHG&show_icons=true&theme=radical" alt="GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=NNVHG&layout=compact&theme=radical" alt="Top Languages" />
 </p>
 
 ---
