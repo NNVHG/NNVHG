@@ -38,16 +38,6 @@ Tôi là sinh viên ngành **Công nghệ thông tin (Information Technology)** 
 
 ---
 
-### 📂 Dự án nổi bật (Featured Projects)
-
-- **[Vietnamese Traffic Sign Recognition]**: Hệ thống nhận diện biển báo giao thông Việt Nam sử dụng mô hình **YOLOv8s** (Object Detection).
-- **[NoMusic]**: Website nghe nhạc/beat lấy cảm hứng từ Spotify, tích hợp tính năng crawl dữ liệu (Data Crawling) từ FreeSound và Jamendo.
-- **[Motel Management]**: Website quản lý phòng trọ xây dựng trên nền tảng **ASP.NET**, quản lý dữ liệu thực tế tại Bình Dương.
-- **[Gunpla Shop]**: Hệ thống quản lý cửa hàng mô hình Gunpla sử dụng **PHP** và **MySQL**.
-- **[Knowledge Management System]**: Hệ thống quản lý kiến thức cá nhân dạng khối (Block-based) sử dụng **Vue.js** và **.NET Core**.
-
----
-
 ### 📊 Thống kê GitHub (GitHub Stats)
 
 <p align="left">
