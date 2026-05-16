@@ -3,10 +3,6 @@
 
 Tôi là sinh viên ngành **Công nghệ thông tin (Information Technology)** tại **Trường Đại học Thủ Dầu Một (TDMU)**. Tôi đam mê xây dựng các hệ thống Web có tính thực tế cao, giao diện hiện đại và tích hợp các công nghệ thông minh.
 
-- 🔭 **Tôi đang thực hiện:** Dự án website nghe nhạc "NoMusic" và hệ thống nhận diện biển báo giao thông.
-- 🌱 **Tôi đang học tập:** Nâng cao kỹ năng về Flutter, Machine Learning và An ninh mạng (Cybersecurity).
-- 🎯 **Mục tiêu:** Trở thành một lập trình viên Fullstack có khả năng xây dựng các hệ thống thông minh hỗ trợ người dùng cuối.
-
 ---
 
 ### 🚀 Kỹ năng & Công cụ (Tech Stack)
